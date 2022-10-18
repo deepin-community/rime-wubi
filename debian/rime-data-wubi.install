@@ -1,0 +1,2 @@
+build/wubi* usr/share/rime-data/build/
+wubi*.yaml usr/share/rime-data/
